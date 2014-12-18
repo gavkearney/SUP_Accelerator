@@ -62,7 +62,7 @@
 								<div class="col-lg-12 text-center">
 									<h1 class="text-white">Main tag line goes here.<div>Applications now open...</div></h1>
 									<!--<a target="_blank" href="http://www.mediumra.re/pivot/variant/builder.html" class="btn btn-primary btn-white">Customize Pivot</a>-->
-									<a href="#" class="btn btn-primary btn-filled">Apply</a>
+									<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank" class="btn btn-primary btn-filled">Apply</a>
 								</div>
 							</div>
 						</div><!--end of container-->
@@ -140,7 +140,7 @@
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
-							<a href="">Apply Today</a>
+							<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank">Apply Today</a>
 							<p class="copyright">&copy; 2014 OSO</p>
 						</div>
 						
