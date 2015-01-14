@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         
-        <title>Oso Acclerator</title>
+        <title>Boost Acclerator</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -57,7 +57,7 @@
 						<div class="container align-vertical">
 							<div class="row">
 								<div class="col-lg-12" style="text-align:center;">
-									<img class="logo" alt="Logo" src="img/speechbubble.png" style="height:200px;">
+									<img class="logo" alt="Logo" src="img/speechbubble_edited.png" style="height:200px;">
 								</div>
 								<div class="col-lg-12 text-center">
 									<h1 class="text-white">Main tag line goes here.<div>Applications now open...</div></h1>
@@ -82,7 +82,7 @@
 		
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 message">
-							<h2>The OSO Accelerator is a program focused on moving early stage Chilean start-ups into top tier accelerator programs around the world.</h2>
+							<h2>The Boost Accelerator is a program focused on moving early stage Chilean start-ups into top tier accelerator programs around the world.</h2>
 						</div>
 						<div class="col-sm-4">
 							<div class="feature feature-icon-large">
