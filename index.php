@@ -154,7 +154,7 @@
 									<img src="img/tiempy.png">
 								</div>
 								<div class="col-sm-4">
-									<img src="img/sovi.png" style="height:70px;">
+									<img src="img/sovilogo.png" style="height:70px;">
 								</div>
 								<div class="col-sm-6">
 									<img src="img/spreadsheetbooster.png" style="height:40px">
