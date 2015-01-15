@@ -26,6 +26,13 @@
         .gr-bg {background:#e6e6e6;}
         .text-center {text-align: center;}
         a:link, a:hover, a:active, a:visited {color:#808080;font-size: 20px;}
+        .faq {padding:50px 5%;background:#f8f8f8;}
+        .faq h2 {font-size: 40px;}
+        .faq h3 {padding:15px 0px;}
+        .logos {padding:50px 5%;}
+        .logos h2 {padding:15px 0px 50px;}
+        .logos img {height:75px;}
+        .containsImages div {padding-top:25px;padding-bottom: 25px}
         </style>
     </head>
     <body>
@@ -60,7 +67,7 @@
 									<img class="logo" alt="Logo" src="img/speechbubble_edited.png" style="height:200px;">
 								</div>
 								<div class="col-lg-12 text-center">
-									<h1 class="text-white">Main tag line goes here.<div>Applications now open...</div></h1>
+									<h1 class="text-white">Get accepted into top accelerators around the world.<div>Applications now open...</div></h1>
 									<!--<a target="_blank" href="http://www.mediumra.re/pivot/variant/builder.html" class="btn btn-primary btn-white">Customize Pivot</a>-->
 									<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank" class="btn btn-primary btn-filled">Apply</a>
 								</div>
@@ -90,9 +97,9 @@
 									<i class="icon icon-genius"></i>
 								</div>
 								<div class="pull-right">
-									<h5>8 week program</h5>
+									<h5>Proven Track Record</h5>
 									<p>
-										Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.
+										Each member of the BOOST team has successfully gotten into top accelerator programs around the world. Combined, they have raised $1 million in investment for their businesses.
 									</p>
 								</div>
 							</div>
@@ -106,7 +113,7 @@
 								<div class="pull-right">
 									<h5>Experienced Mentorship</h5>
 									<p>
-										Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.
+										Get mentored by an all-star cast of entrepreneurs who have a combined 25+ years experience in all aspects of running a business and getting startups off the ground.
 									</p>
 								</div>
 							</div>
@@ -118,15 +125,45 @@
 									<i class="icon icon-tools-2"></i>
 								</div>
 								<div class="pull-right">
-									<h5>Forward Motion</h5>
+									<h5>Application Prep</h5>
 									<p>
-										Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus.
+										During different tailored workshops, we'll help you get your business into shape and help you prepare the perfect accelerator application.
 									</p>
 								</div>
 							</div>
 						</div><!--end 6 col-->
 						
 						<!--end 6 col-->
+						<div class="col-sm-12 faq">
+							<h2>FAQ</h2>
+							<h3>1. Who can apply for the BOOST program?</h3>
+							<p>The BOOST Accelerator program is a program for aspiring entrepreneurs who want to learn how to start a startup, with the ultimate goal of preparing you to apply for the best accelerator programs around the world.  The team at BOOST is looking for people that are self-motivated, passionate, driven, and that work extremely hard. Participants do not have to have prior experience running a company, but you need to show that you're serious about getting your business of the ground - the more progress you can show, the better.</p>
+							<h3>2. Do I need a specific background to apply for BOOST?</h3>
+							<p>Applicants from all fields of study are encouraged to apply. Your study background is not as important as your determination to start your own business in your given field.</p>
+							<h3>3. When and where will the BOOST program take place?</h3>
+							<p>The BOOST program wil begin on March 1st and will run over a 3 month time period. Participants will be required to meet at our Providencia Offices for one-on-one mentoring sessions between 2-4 times per month. The above dates are flexible on a case by case basis, for those that wish to take part in the program.</p>
+						</div>
+
+						<div class="col-sm-12 text-center logos">
+							<h2>Boost includes advisors and mentors from:</h2>
+							<div class="row containsImages">
+								<div class="col-sm-4">
+									<img src="img/thebesty.png">
+								</div>
+								<div class="col-sm-4">
+									<img src="img/tiempy.png">
+								</div>
+								<div class="col-sm-4">
+									<img src="img/sovi.png" style="height:70px;">
+								</div>
+								<div class="col-sm-6">
+									<img src="img/spreadsheetbooster.png" style="height:40px">
+								</div>
+								<div class="col-sm-5">
+									<img src="img/renovatuvestidor.png" style="height:60px">
+								</div>
+							</div>
+						</div>
 						
 					</div><!--end of row-->
 				</div>
@@ -140,8 +177,8 @@
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
-							<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank">Apply Today</a>
-							<p class="copyright">&copy; 2014 OSO</p>
+							<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank" class="btn btn-primary btn-filled">Apply</a>
+							<p class="copyright">&copy; 2014 BOOST</p>
 						</div>
 						
 						
