@@ -153,7 +153,7 @@
 								
 								
 								<div class="col-sm-4">
-									<img src="img/renova.png" >
+									<img src="img/renova_new.png" >
 								</div>
 								<div class="col-sm-4">
 									<img src="img/tiempy.png">
