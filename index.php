@@ -145,7 +145,7 @@
 						</div>
 
 						<div class="col-sm-12 text-center logos">
-							<h2>Boost includes advisors and mentors from:</h2>
+							<h2>BOOST includes advisors and mentors from:</h2>
 							<div class="row containsImages">
 								<div class="col-sm-4">
 									<img src="img/thebesty.png">
@@ -180,7 +180,7 @@
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
-							<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank" class="btn btn-primary btn-filled">Apply</a>
+							<a href="https://tbca.wufoo.com/forms/oso-accelerator-program-start-your-startup/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 							<p class="copyright">&copy; 2014 BOOST</p>
 						</div>
 						
