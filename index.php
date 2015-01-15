@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         
-        <title>Boost Acclerator</title>
+        <title>Boost Pre-Acclerator</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -64,7 +64,7 @@
 						<div class="container align-vertical">
 							<div class="row">
 								<div class="col-lg-12" style="text-align:center;">
-									<img class="logo" alt="Logo" src="img/speechbubble_edited.png" style="height:200px;">
+									<img class="logo" alt="Logo" src="img/speechbubble_pre.png" style="height:200px;">
 								</div>
 								<div class="col-lg-12 text-center">
 									<h1 class="text-white">Get accepted into top accelerators around the world.<div>Applications now open...</div></h1>
