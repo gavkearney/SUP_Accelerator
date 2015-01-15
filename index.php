@@ -150,18 +150,21 @@
 								<div class="col-sm-4">
 									<img src="img/thebesty.png">
 								</div>
+								
+								
+								<div class="col-sm-4">
+									<img src="img/renova.png" >
+								</div>
 								<div class="col-sm-4">
 									<img src="img/tiempy.png">
 								</div>
-								<div class="col-sm-4">
+								<div class="col-sm-6">
 									<img src="img/sovilogo.png" style="height:70px;">
 								</div>
 								<div class="col-sm-6">
-									<img src="img/spreadsheetbooster.png" style="height:40px">
+									<img src="img/spreadsheetbooster.png" style="height:40px;margin-top:17px;">
 								</div>
-								<div class="col-sm-5">
-									<img src="img/renovatuvestidor.png" style="height:60px">
-								</div>
+								
 							</div>
 						</div>
 						
