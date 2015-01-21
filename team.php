@@ -157,7 +157,7 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 											<span class="sub alt-font">CEO, SpreadsheetBooster</span>
 										</div>
 										<p>
-											Guido van Oorschot built his first website when he was twelve and hasn't stopped since. With a background in both business and data mining, he has consulted for numerous online businesses across the globe. Leading the business intelligence team at OLX Brazil he grew engagement to over 1 billion monthly pageviews. Currently he is running his startup <a href="www.spreadsheetbooster.com">SpreadsheetBooster</a>
+											Guido van Oorschot built his first website when he was twelve and hasn't stopped since. With a background in both business and data mining, he has consulted for numerous online businesses across the globe. Leading the business intelligence team at OLX Brazil he grew engagement to over 1 billion monthly pageviews. Currently he is running his startup <a href="http://www.spreadsheetbooster.com">SpreadsheetBooster</a>
 										</p>
 										
 									</div>
@@ -175,7 +175,7 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 											<span class="sub alt-font">CTO, Sovi</span>
 										</div>
 										<p>
-											Tom Evans is Co-Founder and CTO at Sovi. He learned to program at 15, built his first neural network at 17, graduated with Computer Science Degree from University of South Carolina and has 7+ years experience in programming, software development and application architecture;
+											Tom Evans is Co-Founder and CTO at <a href="http://www.sovi.fm">Sovi</a>. He learned to program at 15, built his first neural network at 17, graduated with Computer Science Degree from University of South Carolina and has 7+ years experience in programming, software development and application architecture;
 										</p>
 										
 									</div>
@@ -231,7 +231,7 @@ Latin American countries, starting by Chile and Uruguay.
 											<span class="sub alt-font">CEO, Sovi</span>
 										</div>
 										<p>
-											Trey Pringle is Co-Founder and CEO of Sovi. He has a double-degree from the College of Charleston Honors College, and is a self-taught programmer with a specific focus on iOS programming with Swift.
+											Trey Pringle is Co-Founder and CEO of <a href="http://www.sovi.fm">Sovi</a>. He has a double-degree from the College of Charleston Honors College, and is a self-taught programmer with a specific focus on iOS programming with Swift.
 										</p>
 										
 									</div>
