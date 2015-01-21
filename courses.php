@@ -80,7 +80,7 @@
 								<div class="pull-right">
 									<legend><h5>Building a Team</h5></legend>
 									<p>
-										A good team can be the difference between a good product and a great product. Here we dicuss ways to strengthen and diversifying your team based on your product's needs.
+										A good team can be the difference between a good product and a great product. Here we dicuss ways to strengthen and diversify your team based on your product's needs.
 									</p>
 								</div>
 							</div>
