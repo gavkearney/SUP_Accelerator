@@ -149,7 +149,7 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
 									<a href="blog-single.html">
-										<img alt="Blog Preview" src="img/Guido.jpg" style="width:100%">
+										<img alt="Blog Preview" src="img/guido_2.jpg" style="width:100%">
 									</a>
 									<div class="post-title">
 										<h2>Guido Van Oorschot</h2>
