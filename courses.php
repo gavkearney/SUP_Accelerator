@@ -80,7 +80,7 @@
 								<div class="pull-right">
 									<legend><h5>Building A Team</h5></legend>
 									<p>
-										A good team can be the difference between a good product and a great product, here we dicuss ways to strengthen and diversifying your team based on your product's needs.
+										A good team can be the difference between a good product and a great product. Here we dicuss ways to strengthen and diversifying your team based on your product's needs.
 									</p>
 								</div>
 							</div>
@@ -122,7 +122,7 @@
 								<div class="pull-right">
 									<legend><h5>Marketing the Product</h5></legend>
 									<p>
-										There are many options and avenues to take when deciding where and when to market your product. Let's find out which one best suites your business.
+										There are many options and avenues to take when deciding where and when to market your product. Let's find out which one best suits your business.
 									</p>
 								</div>
 							</div>
@@ -150,7 +150,7 @@
 								<div class="pull-right">
 									<legend><h5>Pitch Deck</h5></legend>
 									<p>
-										A good pitch deck can not only help potential investors better understand your product but it can also help with getting into accelerators. This course is geared towards creating a high quality pitch deck.
+										A good pitch deck can not only help potential investors better understand your product but can also help with getting into accelerators. This course is geared towards creating a high quality pitch deck.
 									</p>
 								</div>
 							</div>
