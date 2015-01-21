@@ -69,7 +69,7 @@
 		
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 message">
-							<h2>Our courses focus on getting you and your product ready for top tier accelerator programs around the world. Topics cover are listed below.</h2><br>
+							<h2>Our courses focus on getting you and your product ready for top tier accelerator programs around the world. Topics covered are listed below.</h2><br>
 							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 						</div>
 						<div class="col-sm-12">
