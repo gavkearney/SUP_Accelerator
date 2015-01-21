@@ -101,7 +101,7 @@ Soon launching in Chile! Stay Tuned ;)
 							<div class="col-md-4 col-sm-6 blog-masonry-item development">
 								<div class="item-inner quote-post">
 									<div class="post-title">
-										<h1>BOOST is an affiliate program of</h1>
+										<h1>BOOST is composed of entreprenuers participating in</h1>
 										<img alt="SUP" src="img/sup_2.png" style="width:100%">
 										
 									</div>
