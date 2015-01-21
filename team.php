@@ -257,7 +257,34 @@ Latin American countries, starting by Chile and Uruguay.
 				
 			</section>
 		</div>
-		
+		<div class="footer-container">
+			<a href="index.php">
+				<div class="col-sm-12 text-center" style="background:#3498db;font-size:30px;padding:10px 0px;">
+						<h2 style="color:#fff;">Home &raquo;</h2>
+				</div>
+			</a>
+			<a href="courses.php">
+				<div class="col-sm-12 text-center" style="background:#9b59b6;font-size:30px;padding:10px 0px;margin-bottom:90px;">
+						<h2 style="color:#fff;">Courses &raquo;</h2>
+				</div>
+			</a>
+			<footer class="short gr-bg">
+				<div class="container">
+					<div class="row text-center">
+						<div class="col-sm-12">
+							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
+							
+						</div>
+						<div class="col-sm-12" style="padding-top:50px;">
+							<p style="color:#808080;">BOOST is an affiliate program of <img src="img/sup_2_bw.png" style="height:14px;"></p>
+							<p class="copyright">&copy; 2014 BOOST</p>
+						</div>
+						
+						
+					</div><!--end of row-->
+				</div><!--end of container-->
+			</footer>
+		</div>
 		
 				
 		<script src="js/jquery.min.js"></script>
