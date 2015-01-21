@@ -21,18 +21,18 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         <style>
-        .message {padding:20px 0px 50px;text-align:center;margin-bottom:50px;border-bottom:1px solid #e6e6e6;}
-        .copyright {margin-top:10px;font-size:12px;color:#808080;}
-        .gr-bg {background:#e6e6e6;}
-        .text-center {text-align: center;}
-        a:link, a:hover, a:active, a:visited {color:#808080;font-size: 20px;}
-        .faq {padding:50px 5%;background:#f8f8f8;}
-        .faq h2 {font-size: 40px;}
-        .faq h3 {padding:15px 0px;}
-        .logos {padding:50px 5%;}
-        .logos h2 {padding:15px 0px 50px;}
-        .logos img {height:75px;}
-        .containsImages div {padding-top:25px;padding-bottom: 25px}
+        	.message {padding:20px 0px 50px;text-align:center;margin-bottom:50px;border-bottom:1px solid #e6e6e6;}
+        	.copyright {margin-top:10px;font-size:12px;color:#808080;}
+        	.gr-bg {background:#e6e6e6;}
+        	.text-center {text-align: center;}
+        	a:link, a:hover, a:active, a:visited {color:#808080;font-size: 20px;}
+        	.faq {padding:50px 5%;background:#f8f8f8;}
+        	.faq h2 {font-size: 40px;}
+        	.faq h3 {padding:15px 0px;}
+        	.logos {padding:50px 5%;}
+        	.logos h2 {padding:15px 0px 50px;}
+        	.logos img {height:75px;}
+        	.containsImages div {padding-top:25px;padding-bottom: 25px}
         </style>
     </head>
     <body>
@@ -46,7 +46,7 @@
 		
 		
 		<div class="main-container">
-		<section class="hero-slider">
+			<section class="hero-slider">
 				<ul class="slides">
 					<li class="overlay">
 						<div class="background-image-holder parallax-background">
@@ -177,8 +177,13 @@
 		
 		<div class="footer-container">
 			<a href="team.php">
-				<div class="col-sm-12 text-center" style="background:#29d9c2;font-size:30px;padding:10px 0px;margin-bottom:90px;">
+				<div class="col-sm-12 text-center" style="background:#29d9c2;font-size:30px;padding:10px 0px;">
 						<h2 style="color:#fff;">Meet the Team &raquo;</h2>
+				</div>
+			</a>
+			<a href="courses.php">
+				<div class="col-sm-12 text-center" style="background:#9b59b6;font-size:30px;padding:10px 0px;margin-bottom:90px;">
+						<h2 style="color:#fff;">Courses &raquo;</h2>
 				</div>
 			</a>
 			<footer class="short gr-bg">
