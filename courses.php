@@ -78,7 +78,7 @@
 									<i class="icon icon-tools"></i>
 								</div>
 								<div class="pull-right">
-									<legend><h5>Building A Team</h5></legend>
+									<legend><h5>Building a Team</h5></legend>
 									<p>
 										A good team can be the difference between a good product and a great product. Here we dicuss ways to strengthen and diversifying your team based on your product's needs.
 									</p>
@@ -106,7 +106,7 @@
 									<i class="icon icon-scope"></i>
 								</div>
 								<div class="pull-right">
-									<legend><h5>Define Your Customer</h5></legend>
+									<legend><h5>Define your Customer</h5></legend>
 									<p>
 										Finding your product market fit and responding correctly to customer feedback are crucial steps in generating revenue. Here we discuss the importance of defining your user base and iterating when necessary.
 									</p>
