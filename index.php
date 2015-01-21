@@ -189,7 +189,7 @@
 							
 						</div>
 						<div class="col-sm-12" style="padding-top:50px;">
-							<p style="color:#808080;">BOOST is an affiliate program of <img src="img/sup_2_bw.png" style="height:14px;"></p>
+							<p style="color:#808080;">BOOST is composed of entreprenuers participating in <img src="img/sup_2_bw.png" style="height:14px;"></p>
 							<p class="copyright">&copy; 2014 BOOST</p>
 						</div>
 						
