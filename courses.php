@@ -69,7 +69,7 @@
 		
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 message">
-							<h2>Our courses focus on getting you and your product ready for top tier accelerator programs around the world. Topics covered are listed below.</h2><br>
+							<h2>Our courses focus on getting you and your product ready for top tier accelerator programs around the world. <br> <small>Topics covered are listed below</small></h2><br>
 							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 						</div>
 						<div class="col-sm-12">
@@ -164,7 +164,7 @@
 								<div class="pull-right">
 									<legend><h5>Time to Apply</h5></legend>
 									<p>
-										One key to getting into top tier accelerators in a fine-tuned application. We'll give you all the tools you need here to make sure your application is ready.
+										One key to getting into top tier accelerators is a fine-tuned application. We'll give you all the tools you need here to make sure your application is ready.
 									</p>
 								</div>
 							</div>
