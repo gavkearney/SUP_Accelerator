@@ -165,6 +165,7 @@
 									<img src="img/spreadsheetbooster.png" style="height:40px;margin-top:17px;">
 								</div>
 								
+								
 							</div>
 						</div>
 						
@@ -175,12 +176,20 @@
 		</div>
 		
 		<div class="footer-container">
-		
+			<a href="team.php">
+				<div class="col-sm-12 text-center" style="background:#29d9c2;font-size:30px;padding:10px 0px;margin-bottom:90px;">
+						<h2 style="color:#fff;">Meet the Team &raquo;</h2>
+				</div>
+			</a>
 			<footer class="short gr-bg">
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
 							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
+							
+						</div>
+						<div class="col-sm-12" style="padding-top:50px;">
+							<p style="color:#808080;">BOOST is an affiliate program of <img src="img/sup_2_bw.png" style="height:14px;"></p>
 							<p class="copyright">&copy; 2014 BOOST</p>
 						</div>
 						
