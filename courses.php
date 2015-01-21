@@ -120,7 +120,7 @@
 									<i class="icon icon-global"></i>
 								</div>
 								<div class="pull-right">
-									<legend><h5>Marketing Product</h5></legend>
+									<legend><h5>Marketing the Product</h5></legend>
 									<p>
 										There are many options and avenues to take when deciding where and when to market your product. Let's find out which one best suites your business.
 									</p>
