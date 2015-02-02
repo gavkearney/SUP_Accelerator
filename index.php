@@ -142,6 +142,10 @@
 							<p>Applicants from all fields of study are encouraged to apply. Your study background is not as important as your determination to start your own business in your given field.</p>
 							<h3>3. When and where will the BOOST program take place?</h3>
 							<p>The BOOST program wil begin on March 1st and will run over a 3 month time period. Participants will be required to meet at our Providencia Offices for one-on-one mentoring sessions between 2-4 times per month. The above dates are flexible on a case by case basis, for those that wish to take part in the program.</p>
+							<h3>4. How many startups will be accepted?</h3>
+							<p><strong>5 companies</strong> will be accepted to take place in the upcoming BOOST batch.</p>
+							<h3>5. When is the deadline to apply to the program?</h3>
+							<p>February 21st</p>
 						</div>
 
 						<div class="col-sm-12 text-center logos">
