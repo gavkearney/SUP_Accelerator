@@ -173,7 +173,7 @@ our own country.
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
 									<!-- <a href="blog-single.html"> -->
-										<img alt="Blog Preview" src="img/team/gavin_kearney_jumble.jpg" style="width:100%">
+										<img alt="Blog Preview" src="img/team/gavinkearney_jumble.jpg" style="width:100%">
 									<!-- </a> -->
 									<div class="post-title">
 										<h2>Gavin</h2>
