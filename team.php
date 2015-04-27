@@ -55,19 +55,206 @@
 				<div class="container">
 					<div class="row">
 						<div class="blog-masonry-container">
-						
+
+							<!-- Team profiles -->
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/f_boost.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Fiona</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">COO, Jumble</span>
+										</div>
+										<p>
+											Fiona is co-founder and COO at <a target="_blank" href="https://www.jumble.io">Jumble</a>. Before getting involved in the start-up community she worked in finance and advisory for 9 years as a director with a "Big Four" professional services firm.  She has a masters in Accounting and is a Chartered Accountant.  Outside of Jumble Fiona loves hiking, rock-climbing and tasting good wine!
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<!-- Boost item -->
+							<div class="col-md-4 col-sm-6 blog-masonry-item development">
+								<div class="item-inner quote-post">
+									<div class="post-title">
+										<h1>BOOST is composed of entreprenuers participating in</h1>
+										<img alt="SUP" src="img/sup_2.png" style="width:100%">
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/ale.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Alessandro</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">CEO/Co-founder, Earlclaim</span>
+										</div>
+										<p>
+											Since 17 years old, Alessandro has since studied, worked and lived primarily abroad (USA, UK, BE, NL, DK, CH). He has 4 years professional experience in Oil/Gas/Energy multinationals in international commercial/business functions with responsibilities in the $Ms-$Bs range. He’s an entrepreneur since 2012 and has participated in idea stage (IT), incubation stage (CH) and growth stage (DK) international accelerators. Since 2012, he has co-founded a B2B ecommerce sentiment analysis startup and joined as COO a B2B2C tourism semantic search startup (both incubated, accelerated, seed funded). He’s currently the CEO/CoFounder of <a target="_blank" href="earlyclaim.com">Earlyclaim.com</a>, a platform that connects pre-launch startups and users through username reservations and community building. Alessandro is also an advisor for Finsmes (“Forbes Best 100 Websites for Entrepreneurs in 2013”) and a Startup Weekend goer / mentor. He has Associate, Bachelor, Master and Post Graduate level educational background (USA, UK, SWI) in Multimedia, Journalism, Advertising, International Business and Management, Innovation Through Commercial Excellence.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/walter_Earlyclaim.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Walter</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">CTO/Co-founder, Earlyclaim</span>
+										</div>
+										<p>
+											Walter is a full-stack, self-taught hacker, CTO/CoFounder of <a target="_blank" href="earlyclaim.com">Earlyclaim.com</a>. He started coding at 12 and loves design and user experience. Walter professional career began at 19yrs old, doing IT security consultancies for NATO bases in Italy. He studied Design of Communication at Politecnico di Milano: as a paid consultant, he developed and implemented for them (2004) their CMS/social network, used by over 800+ professors and 3500+ students to connect around 1500+ courses: the project was the first-in-the-world, at the university level, to implement Ajax technology. After leaving Politecnico, Walter was CTO of web & digital agencies, also acting as interim CTO for their clients which ranged from well-known international brands to Italian startups. Walter’s first startup (2012) was a B2B2C Big Data play in the context of expressing emotions within a social graph. He’s a former Boy Scout Leader and Red Cross volunteer, can’t live without hackathons and he’s a Startup Weekend goer, mentor and judge.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/nico_earlyclaim.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Nicola</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">Mobile Developer/Designer, Earlyclaim</span>
+										</div>
+										<p>
+											From Verona, Italy. Former iOS Developer at Eversnap, seed founded San Francisco based startup. Now he’s a Mobile Developer and Designer at <a target="_blank" href="earlyclaim.com">Earlyclaim.com</a>; Passioned about everything is related to computer science, design and visual art. He's an hackathon addicted and self-taught programmer with a specific focus on mobile and front-end programming. Spends his free time photographing or filming everything that gives him inspiration.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/okan_ozbek.JPG" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Okan</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">CEO, Neurolize</span>
+										</div>
+										<p>
+											Okan Özbek is a Turkish serial entrepreneur, Co-founder and the CEO of <a href="http://www.neurolize" target="_blank">Neurolize</a>, a company 
+
+that created a software which analyzes brain’s electrical activity patterns for market research 
+
+purposes. Okan Özbek has a background in marketing and advertising and specializes in business 
+
+strategy, planning and market research. Neurolize offers market research solutions to a wide base of 
+
+industries which helped us to develop insight and better understanding for many sectors. Neurolize is 
+
+looking for ways to expand and scale the business and Chile is the first place that we step outside of 
+
+our own country.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/gavin_kearney_jumble.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Gavin</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">CEO, Jumble</span>
+										</div>
+										<p>
+											Gavin is co-founder and CEO of <a target="_blank" href="https://www.jumble.io">Jumble</a>. His previous roles include a solutions architect for a major travel technology vendor and he has a background in cryptography and start-ups. Gavin holds a M.Sc in Security & Forensic Computing from DCU. Gavin’s professional experience ranges from enterprise software development and delivery to banking security system design while his startup experience spans big data search, real-time photo indexation and noteably email security. 
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/alberto.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Alberto </h2>
+										<div class="post-meta">
+											<span class="sub alt-font">CEO, NiceOne</span>
+										</div>
+										<p>
+											Expert in strategy, marketing &amp; sales. Alberto has a background in Finance &amp; International Management, with past positions as Financial Trader in London and in Google, where he served as Business Development Manager and Sales Development Manager for the EMEA region. Alberto has an active company in Italy offering legal and financial support to privates and companies. He is currently the Founder/CEO of NiceOne, mobile marketing platform to revolutionise the interaction between bars, restaurants, clubs and their clients.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/mnicoo.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Nicolas</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">Business Owner, Meshh</span>
+										</div>
+										<p>
+											Expert in Business Model Generation with extensive experience planning and executing lean startups strategy in early stage startups.  Speaker in events about Social Media and digital communications. He founded TopicFlower in 2012 a solution that manages content campaigns in social media. Nowadays, he is business advisor at Meshh a solution that calculates brands penetrations in social networks. 
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
+										<img alt="Blog Preview" src="img/team/mturco.jpg" style="width:100%">
+									<!-- </a> -->
+									<div class="post-title">
+										<h2>Yair</h2>
+										<div class="post-meta">
+											<span class="sub alt-font">Team Leader, Meshh</span>
+										</div>
+										<p>
+											Currently student of marketing in Universidad Empresarial Siglo 21. Expertise in scalable sales process and sales funnel desing. He was part of the sales team in TopicFlower a social media solution where he executed the internationalization of the product based on cold calling 2.0 methodology. Nowadays he is the Team Leader at meshh.
+										</p>
+										
+									</div>
+								</div>
+							</div><!--end of individual post-->
+
+
+							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
+								<div class="item-inner">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/ceci.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Cecilia Membrano</h2>
 										<div class="post-meta">
 											<span class="sub alt-font">CEO, Renova Tu Vestidor</span>
 										</div>
 										<p>
-											Cecilia Membrado is an Argentinean entrepreneur, founder & CEO of Renová tu Vestidor 
+											Cecilia Membrado is an Argentinean entrepreneur, founder &amp; CEO of Renová tu Vestidor 
 
 www.renovatuvestidor.com, an online community where women open their wardrobes to share, 
 
@@ -89,7 +276,7 @@ with more than 80% OFF.
 
 Launched in February 2014, with more than 25.000 daily active users in Argentina, Renová tu 
 
-Vestidor intends to change the way women buy & sell clothes in LATAM.
+Vestidor intends to change the way women buy &amp; sell clothes in LATAM.
 
 Soon launching in Chile! Stay Tuned ;)
 										</p>
@@ -98,21 +285,11 @@ Soon launching in Chile! Stay Tuned ;)
 								</div>
 							</div><!--end of individual post-->
 							
-							<div class="col-md-4 col-sm-6 blog-masonry-item development">
-								<div class="item-inner quote-post">
-									<div class="post-title">
-										<h1>BOOST is composed of entreprenuers participating in</h1>
-										<img alt="SUP" src="img/sup_2.png" style="width:100%">
-										
-									</div>
-								</div>
-							</div><!--end of individual post-->
-						
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/Matias.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Matias Nisenson</h2>
 										<div class="post-meta">
@@ -130,9 +307,9 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 						
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/MattB.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Matt Baer</h2>
 										<div class="post-meta">
@@ -148,9 +325,9 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 							
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/guido_2.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Guido Van Oorschot</h2>
 										<div class="post-meta">
@@ -166,9 +343,9 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 							
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/tom_2.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Tom Evans</h2>
 										<div class="post-meta">
@@ -184,9 +361,9 @@ Passion for business and tech. Favourite quote: "Don't work hard, work smart"
 							
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/gon.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Gonzalo Basaldua</h2>
 										<div class="post-meta">
@@ -222,9 +399,9 @@ Latin American countries, starting by Chile and Uruguay.
 							
 							<div class="col-md-4 col-sm-6 blog-masonry-item branding">
 								<div class="item-inner">
-									<a href="blog-single.html">
+									<!-- <a href="blog-single.html"> -->
 										<img alt="Blog Preview" src="img/Trey.jpg" style="width:100%">
-									</a>
+									<!-- </a> -->
 									<div class="post-title">
 										<h2>Trey Pringle</h2>
 										<div class="post-meta">
@@ -242,7 +419,7 @@ Latin American countries, starting by Chile and Uruguay.
 								<div class="item-inner quote-post">
 									<div class="post-title">
 										<h1>Applications are open</h1>
-										<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
+										<a href="https://docs.google.com/forms/d/15DyA5kTe-koTgYAerue0L66GS5jPUiYGNLhv2aeQNO8/viewform" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 										
 									</div>
 								</div>
@@ -272,7 +449,7 @@ Latin American countries, starting by Chile and Uruguay.
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
-							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
+							<a href="https://docs.google.com/forms/d/15DyA5kTe-koTgYAerue0L66GS5jPUiYGNLhv2aeQNO8/viewform" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 							
 						</div>
 						<div class="col-sm-12" style="padding-top:50px;">
