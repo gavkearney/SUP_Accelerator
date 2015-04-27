@@ -69,7 +69,7 @@
 								<div class="col-lg-12 text-center">
 									<h1 class="text-white">Get accepted into top accelerators around the world.<div>Applications now open...</div></h1>
 									<!--<a target="_blank" href="http://www.mediumra.re/pivot/variant/builder.html" class="btn btn-primary btn-white">Customize Pivot</a>-->
-									<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply</a>
+									<a href="https://docs.google.com/forms/d/15DyA5kTe-koTgYAerue0L66GS5jPUiYGNLhv2aeQNO8/viewform" target="_blank" class="btn btn-primary btn-filled">Apply</a>
 								</div>
 							</div>
 						</div><!--end of container-->
@@ -194,7 +194,7 @@
 				<div class="container">
 					<div class="row text-center">
 						<div class="col-sm-12">
-							<a href="https://tbca.wufoo.com/forms/boost-preaccelerator-program/" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
+							<a href="https://docs.google.com/forms/d/15DyA5kTe-koTgYAerue0L66GS5jPUiYGNLhv2aeQNO8/viewform" target="_blank" class="btn btn-primary btn-filled">Apply Today</a>
 							
 						</div>
 						<div class="col-sm-12" style="padding-top:50px;">
