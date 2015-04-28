@@ -141,21 +141,33 @@
 							<h3>2. Do I need a specific background to apply for BOOST?</h3>
 							<p>Applicants from all fields of study are encouraged to apply. Your study background is not as important as your determination to start your own business in your given field.</p>
 							<h3>3. When and where will the BOOST program take place?</h3>
-							<p>The BOOST program wil begin on March 1st and will run over a 3 month time period. Participants will be required to meet at our Providencia Offices for one-on-one mentoring sessions between 2-4 times per month. The above dates are flexible on a case by case basis, for those that wish to take part in the program.</p>
+							<p>The BOOST program wil begin on May 25th and will run over a 3 month time period. Participants will be required to meet at our Providencia Offices for one-on-one mentoring sessions between 2-4 times per month. The above dates are flexible on a case by case basis, for those that wish to take part in the program.</p>
 							<h3>4. How many startups will be accepted?</h3>
 							<p><strong>5 companies</strong> will be accepted to take place in the upcoming BOOST batch.</p>
 							<h3>5. When is the deadline to apply to the program?</h3>
-							<p>February 21st</p>
+							<p>May 8th</p>
 						</div>
 
 						<div class="col-sm-12 text-center logos">
 							<h2>BOOST includes advisors and mentors from:</h2>
 							<div class="row containsImages">
 								<div class="col-sm-4">
+									<a target="_blank" href="https://www.jumble.io"><img src="img/team/logos/jumble-logo.png"></a>
+								</div>
+								<div class="col-sm-4">
+									<a target="_blank" href="https://earlyclaim.com/"><img src="img/team/logos/earlyclaim-logo.svg"></a>
+								</div>
+								<div class="col-sm-4">
+									<a target="_blank" href="http://niceoneapp.com/"><img src="img/team/logos/niceone-logo.png"></a>
+								</div>
+								<div class="col-sm-4">
+									<a target="_blank" href="http://www.neurolize.com/"><img src="img/team/logos/neurolize.png"></a>
+								</div>
+
+
+								<div class="col-sm-4">
 									<img src="img/thebesty.png">
 								</div>
-								
-								
 								<div class="col-sm-4">
 									<img src="img/renova_nuevo.png" style="height:35px;margin-top:20px;" >
 								</div>

@@ -199,7 +199,7 @@ our own country.
 											<span class="sub alt-font">CEO, NiceOne</span>
 										</div>
 										<p>
-											Expert in strategy, marketing &amp; sales. Alberto has a background in Finance &amp; International Management, with past positions as Financial Trader in London and in Google, where he served as Business Development Manager and Sales Development Manager for the EMEA region. Alberto has an active company in Italy offering legal and financial support to privates and companies. He is currently the Founder/CEO of NiceOne, mobile marketing platform to revolutionise the interaction between bars, restaurants, clubs and their clients.
+											Expert in strategy, marketing &amp; sales. Alberto has a background in Finance &amp; International Management, with past positions as Financial Trader in London and in Google, where he served as Business Development Manager and Sales Development Manager for the EMEA region. Alberto has an active company in Italy offering legal and financial support to privates and companies. He is currently the Founder/CEO of <a target="_blank" href="http://niceoneapp.com">NiceOne</a>, mobile marketing platform to revolutionise the interaction between bars, restaurants, clubs and their clients.
 										</p>
 										
 									</div>
