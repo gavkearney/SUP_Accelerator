@@ -145,7 +145,7 @@
 							<h3>4. How many startups will be accepted?</h3>
 							<p><strong>5 companies</strong> will be accepted to take place in the upcoming BOOST batch.</p>
 							<h3>5. When is the deadline to apply to the program?</h3>
-							<p>May 8th</p>
+							<p>May 15th</p>
 						</div>
 
 						<div class="col-sm-12 text-center logos">
